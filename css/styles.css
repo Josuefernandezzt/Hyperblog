@@ -18,3 +18,15 @@ body{
 .card-body{
     background-color: rgb(18, 53, 53);
 }
+
+footer{ 
+    background-color: rgba(13, 19, 41, 0.952);
+    font-size: 25px;
+	text-align:center;
+    height: 80px;
+}
+    
+
+
+
+
